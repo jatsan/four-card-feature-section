@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://your-solution-url.com)
+- Solution URL: [Source Code](https://github.com/jatsan/four-card-feature-section)
 - Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
